@@ -16,6 +16,8 @@ $ git clone https://github.com/uilic/Back-End_ML_Project.git
 
 $ cd Back-End_ML_Project
 
+$ python3 -m venv /home/uros/Back-End_ML_Project/venv
+
 $ source venv/bin/activate
 
 $ pip install requirements.txt
