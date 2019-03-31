@@ -12,7 +12,7 @@ uros92vozd@gmail.com
 To start the application, you should have Python 3.5 installed on your machine (Linux) and type the following in your terminal.:
 
 ```
-$ git clone https://github.com/uilic/socialflask.git
+$ git clone https://github.com/uilic/Back-End_ML_Project.git
 
 $ cd socialflask
 
