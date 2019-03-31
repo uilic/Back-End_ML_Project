@@ -14,7 +14,7 @@ To start the application, you should have Python 3.5 installed on your machine (
 ```
 $ git clone https://github.com/uilic/Back-End_ML_Project.git
 
-$ cd socialflask
+$ cd Back-End_ML_Project
 
 $ source venv/bin/activate
 
