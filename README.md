@@ -22,6 +22,6 @@ $ source venv/bin/activate
 
 $ pip install -r requirements.txt
 
-$ python app.py 
+$ venv/bin/python3 python app.py 
 ```
 If everything went right you should see the app in your browser on the page  http://127.0.0.1:5000/elephant
